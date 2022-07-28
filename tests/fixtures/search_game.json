@@ -1,0 +1,636 @@
+{
+  "error": "OK",
+  "limit": 10,
+  "offset": 0,
+  "number_of_page_results": 10,
+  "number_of_total_results": 375,
+  "status_code": 1,
+  "results": [
+    {
+      "aliases": null,
+      "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-49973\/",
+      "date_added": "2015-06-15 19:21:55",
+      "date_last_updated": "2020-03-10 08:12:43",
+      "deck": "Explore a lush, post-apocalyptic world inhabited by robotic beasts while uncovering secrets of the past.",
+      "description": "<h2>Overview<\/h2><p><a href=\"\/guerrilla-games\/3010-2392\/\" data-ref-id=\"3010-2392\">Guerrilla Games<\/a>' first new series since <a href=\"\/killzone\/3025-405\/\" data-ref-id=\"3025-405\">Killzone<\/a> begins in a world after the end of modern civilization. A \"darkness\" has swept the land and left cities barren. After over a thousand years, remaining humans migrated like their ancestors to the far reaches of the Earth. In this world, skyscrapers stand as ancient ruins and robotic creatures roam the land like prehistoric beasts.<\/p><p>The player takes on the role of a young woman named <a href=\"\/aloy\/3005-31979\/\" data-ref-id=\"3005-31979\">Aloy<\/a> who hunts these robots, using a combination of a spear and a bow with many kinds of arrows. Arrows shown include electric shots and grappling lines to tie down larger robots. She appears to be gathering materials for the people of her community.<\/p><p>Elsewhere in the land where nature has reclaimed most of the world, some large cities have arisen with people acting again like \"kings.\"<\/p><p>The main character says that the balance between AI and people cannot remain, but she \"will be ready\" for the coming challenges.<\/p><p>The game was shown for the first time at Sony's <a href=\"\/e3-2015\/3015-8442\/\" data-ref-id=\"3015-8442\">E3 2015<\/a> Press Conference.<\/p><p> <\/p><h2>Story<\/h2><p>Aloy was cast out from the Nora tribe at birth, raised by an outcast named Rost. As a child, she obtained a Focus, a small augmented reality device that gives her special perceptive abilities. After coming of age, Aloy enters a competition called the Proving to win the right to become a Nora Brave, and by extension, a member of the Nora tribe. Aloy wins the competition, but the Nora are suddenly attacked by cultists. Aloy is almost killed by their leader Helis but is saved by Rost, who sacrifices himself to save Aloy from a bomb. When Aloy awakes, a Matriarch explains that the cultists had gained control of corrupted machines. Aloy also learns that as an infant, she was found at the foot of a sealed door. An Oseram foreigner called Olin informs Aloy that the cultists are part of a group calling themselves the Eclipse. Olin indicates that the reason Aloy was targeted by the Eclipse was due to her resemblance to an Old World scientist named Dr. Elisabet Sobeck.<\/p><p>Aloy locates the remnants of the company Faro Automated Solutions and discovers that the old world was destroyed nearly 1,000 years ago after Faro lost control of its automated \"peacekeeper\" military robots. The robots, which could self-replicate and consumed biomass as fuel, overran the planet and consumed the biosphere, stripping Earth of all life. Project Zero Dawn, a top secret project spearheaded by Dr. Sobeck, was a plan to create an automated terraforming system to eventually shut the robots down and restore life to Earth. Aloy is then contacted by Sylens, a secretive figure interested in uncovering what happened to the \"Old Ones.\" Aloy eventually learns that Dr. Sobeck was sent to an Orbital Launch Base to complete Zero Dawn and Sylens reveals that the base is located under the Citadel, the center of Eclipse power. Aloy heads for the base, and inside, she learns that Zero Dawn was a vast underground system of databases, factories, and cloning facilities all controlled by a single artificial intelligence named GAIA. Once all life had been extinguished, GAIA developed a countermeasure to deactivate all of the Faro robots and then build its own robots to restore the Earth's biosphere. Once the planet was habitable again, GAIA reseeded life on Earth based on stored DNA and taught the first human clones not to repeat their predecessors' past mistakes. However, APOLLO, the system designed to teach the new humans, was sabotaged by Faro in a fit of nihilism, and the Cradle born humans were therefore reduced to a tribal, subsistence society. HADES was one of GAIA's subsystems designed to enact controlled extinction if the outcome of Zero Dawn was not favorable for human existence.<\/p><p>Aloy reaches Dr. Sobeck's office, where she downloads a registry to give her access to the door from which she was born. She is captured by Helis and sentenced to death at the Citadel but escapes with the help of Sylens. Aloy helps the Nora tribe fight off the Eclipse and then enters the door beneath the Nora mountain. She finds a recording left behind by GAIA, revealing that a signal of unknown origin caused HADES to activate and seize control of her functions. As a last resort, GAIA self-destructed to stop HADES. Without GAIA to maintain the terraforming process, the entire system began to break down. As a contingency plan, GAIA created a clone of Dr. Sobeck in the form of Aloy, in the hope that she would find GAIA's message, destroy HADES, and restore GAIA's functions. Aloy learns that Dr. Sobeck sacrificed her life to ensure the Faro robot swarm would not find GAIA. Aloy manages to obtain the System Override necessary to destroy HADES. Sylens admits that he was the founder of the Eclipse, tempted initially by HADES' promises of knowledge. With Sylens's help, Aloy surmises that HADES wants to send a signal to reactivate the Faro robots so that they can once again extinguish all life on Earth. Aloy kills Helis and helps fight off waves of corrupted machines, before stabbing HADES with Sylens' lance, ending the war. Aloy then journeys to Dr. Sobeck's old home, where she finds her corpse and has a moment of mourning for her predecessor. In a post-credits scene, HADES is shown to be still alive but trapped by Sylens, who intends to interrogate HADES to find out who sent the signal that activated it in the first place.<\/p><h3><ins><strong>The Frozen Wilds<\/strong><\/ins><\/h3><p>Aloy travels to The Cut, the home of the Banuk Tribe after hearing word of dangerous machines appearing and a mountain belching smoke. There, she learns from a local chieftain named Aratak that the Banuk have been attempting to battle a Daemon on the mountain, \"Thunder's Drum,\" which is apparently the cause of the machines in the area attacking the Banuk. However, their first attack had been a failure, and their shaman, Ourea, had disappeared afterward. Aloy searches for Ourea, coming across strange robotic towers which corrupt any nearby machines. She finds Ourea in an Old World facility that had been converted into a Banuk shrine and is housing an AI they call the Spirit that the Banuk have been worshiping as a god. Aloy is able to establish communications with the Spirit, which warns Ourea that the Daemon is blocking its transmissions before being cut off. Aloy and Ourea agree to work together to save the Spirit. However, Aloy must first oust Aratak and replace him as chieftain, since he refuses to lead any more attacks on Thunder's Drum. It is also revealed that Ourea and Aratak are siblings.<\/p><p>Aloy challenges Aratak, but daemonic machines ambush them in the middle of the challenge. They both team up to fight off the machines, and impressed by Aloy's skills, Aratak concedes leadership to her. Aloy, Ourea, and Aratak head for Thunder's Drum. They infiltrate the Old World facility built inside the mountain where Aloy discovers that the Spirit is actually CYAN, an AI designed to prevent the Yellowstone Caldera from erupting. Traveling further inside, they find out that the Daemon has corrupted much of the facility already, but CYAN suggests using lava from the caldera to destroy the infected areas while preserving the facility. It is also revealed that the Daemon is, in fact, HEPHAESTUS, another of GAIA's subsystems. The group fights through HEPHAESTUS' defenses, and Ourea sacrifices herself to override CYAN's core, allowing it to transfer to an auxiliary data center and initiate destruction of the facility. Aloy and Aratak are able to narrowly escape. Aloy returns to the Banuk Shrine, where CYAN has transferred herself to, and CYAN provides additional information about the Old World but warns that HEPHAESTUS is still active somewhere and seeks to build an army of machines explicitly designed to kill humans for some unknown purpose, which is why it tried to seize control of CYAN and its facilities. Aratak thanks Aloy for all of the help she has provided to the Banuk, and Aloy puts him back in charge of his people before parting ways.<\/p><h2>Collector's Edition<\/h2><figure data-align=\"right\" data-size=\"small\" data-img-src=\"https:\/\/static.giantbomb.com\/uploads\/scale_super\/0\/1992\/2911921-a1vp7srqaml._ac_sl1500_.jpg\" data-ref-id=\"1300-2911921\" data-ratio=\"0.706\" data-width=\"1500\" data-embed-type=\"image\" style=\"width: 1500px\"><a class=\"fluid-height\" style=\"padding-bottom:70.6%\" href=\"https:\/\/static.giantbomb.com\/uploads\/scale_super\/0\/1992\/2911921-a1vp7srqaml._ac_sl1500_.jpg\" data-ref-id=\"1300-2911921\"><img alt=\"No Caption Provided\" src=\"https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/0\/1992\/2911921-a1vp7srqaml._ac_sl1500_.jpg\" srcset=\"https:\/\/www.giantbomb.com\/a\/uploads\/original\/0\/1992\/2911921-a1vp7srqaml._ac_sl1500_.jpg 1500w, https:\/\/www.giantbomb.com\/a\/uploads\/scale_super\/0\/1992\/2911921-a1vp7srqaml._ac_sl1500_.jpg 960w, https:\/\/www.giantbomb.com\/a\/uploads\/scale_medium\/0\/1992\/2911921-a1vp7srqaml._ac_sl1500_.jpg 480w, https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/0\/1992\/2911921-a1vp7srqaml._ac_sl1500_.jpg 320w\" sizes=\"(max-width: 320px) 100vw, 320px\" data-width=\"320\"><\/a><\/figure><p>The Collector's Edition of Horizon: Zero Dawn includes:<\/p><ul><li>A copy of the game in a <a href=\"\/steelbook\/3015-7455\/\" data-ref-id=\"3015-7455\">SteelBook<\/a> case.<\/li><li>9\" <a href=\"\/aloy\/3005-31979\/\" data-ref-id=\"3005-31979\">Aloy<\/a> statue by Gentle Giant.<\/li><li>48-page art book.<\/li><li>PS4 Dynamic Theme<\/li><li>Carja Storm Ranger Outfit\/Bow<\/li><li>Banuk Trailblazer Outfit\/Bow<\/li><li>Banuk Traveler Pack<\/li><li>Carja Trader Pack<\/li><li>Nora Keeper Pack<\/li><li>Nora Machine Trapper Pack<\/li><\/ul>",
+      "expected_release_day": null,
+      "expected_release_month": null,
+      "expected_release_quarter": null,
+      "expected_release_year": null,
+      "guid": "3030-49973",
+      "id": 49973,
+      "image": {
+        "icon_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_avatar\/0\/3699\/2920671-horizon%20-%20zero%20dawn%20v2.jpg",
+        "medium_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_medium\/0\/3699\/2920671-horizon%20-%20zero%20dawn%20v2.jpg",
+        "screen_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_medium\/0\/3699\/2920671-horizon%20-%20zero%20dawn%20v2.jpg",
+        "screen_large_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_kubrick\/0\/3699\/2920671-horizon%20-%20zero%20dawn%20v2.jpg",
+        "small_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/0\/3699\/2920671-horizon%20-%20zero%20dawn%20v2.jpg",
+        "super_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_large\/0\/3699\/2920671-horizon%20-%20zero%20dawn%20v2.jpg",
+        "thumb_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_avatar\/0\/3699\/2920671-horizon%20-%20zero%20dawn%20v2.jpg",
+        "tiny_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_mini\/0\/3699\/2920671-horizon%20-%20zero%20dawn%20v2.jpg",
+        "original_url": "https:\/\/www.giantbomb.com\/a\/uploads\/original\/0\/3699\/2920671-horizon%20-%20zero%20dawn%20v2.jpg",
+        "image_tags": "All Images"
+      },
+      "image_tags": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-49973\/?filter=image_tag:All%20Images",
+          "name": "All Images",
+          "total": 32
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-49973\/?filter=image_tag:PAX%20West%202016",
+          "name": "PAX West 2016",
+          "total": 3
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-49973\/?filter=image_tag:PS4%20Pro%20Screenshots",
+          "name": "PS4 Pro Screenshots",
+          "total": 2
+        }
+      ],
+      "name": "Horizon Zero Dawn",
+      "number_of_user_reviews": 0,
+      "original_game_rating": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game_rating\/3065-1\/",
+          "id": 1,
+          "name": "ESRB: T"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game_rating\/3065-2\/",
+          "id": 2,
+          "name": "PEGI: 16+"
+        }
+      ],
+      "original_release_date": "2017-02-28",
+      "platforms": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/pc\/3045-94\/",
+          "abbreviation": "PC"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/playstation-4\/3045-146\/",
+          "abbreviation": "PS4"
+        }
+      ],
+      "site_detail_url": "https:\/\/www.giantbomb.com\/horizon-zero-dawn\/3030-49973\/",
+      "resource_type": "game"
+    },
+    {
+      "aliases": null,
+      "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-43493\/",
+      "date_added": "2013-08-12 03:58:08",
+      "date_last_updated": "2016-09-22 12:39:36",
+      "deck": "A turn based strategy game for PC.",
+      "description": "<h2> System Requirements<\/h2><h3>Minimum<\/h3><ul><li><strong>OS:<\/strong> Windows XP SP3<\/li><li><strong>Processor:<\/strong> Intel Core 2 Duo 1.8 GHz or AMD Athlon X2 64 2.0 GHz<\/li><li><strong>Memory:<\/strong> 2 GB RAM<\/li><li><strong>Graphics:<\/strong> 512 MB Video Card w\/Pixel Shader 3.0 Support<\/li><li><strong>DirectX\u00ae:<\/strong> 9.0c<\/li><li><strong>Hard Drive:<\/strong> 2 GB HD space<\/li><li><strong>Sound:<\/strong> DirectX 9.0c-compatible<\/li><\/ul><h3>Recommended<\/h3><p><strong>OS:<\/strong> Windows 7<\/p><ul><li><strong>Processor:<\/strong> Intel Core i3\/i5\/i7 or AMD equivalent<\/li><li><strong>Memory:<\/strong> 4 GB RAM<\/li><li><strong>Graphics:<\/strong> 1 GB ATI 4800 series or better, 1 GB NVIDIA 9800 or better<\/li><li><strong>DirectX\u00ae:<\/strong> 9.0c<\/li><li><strong>Hard Drive:<\/strong> 2 GB HD space<\/li><li><strong>Sound:<\/strong> DirectX 9.0c-compatible<\/li><\/ul>",
+      "expected_release_day": null,
+      "expected_release_month": null,
+      "expected_release_quarter": null,
+      "expected_release_year": null,
+      "guid": "3030-43493",
+      "id": 43493,
+      "image": {
+        "icon_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_avatar\/17\/171291\/2528172-horizon_new_full_logo.jpg",
+        "medium_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_medium\/17\/171291\/2528172-horizon_new_full_logo.jpg",
+        "screen_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_medium\/17\/171291\/2528172-horizon_new_full_logo.jpg",
+        "screen_large_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_kubrick\/17\/171291\/2528172-horizon_new_full_logo.jpg",
+        "small_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/17\/171291\/2528172-horizon_new_full_logo.jpg",
+        "super_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_large\/17\/171291\/2528172-horizon_new_full_logo.jpg",
+        "thumb_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_avatar\/17\/171291\/2528172-horizon_new_full_logo.jpg",
+        "tiny_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_mini\/17\/171291\/2528172-horizon_new_full_logo.jpg",
+        "original_url": "https:\/\/www.giantbomb.com\/a\/uploads\/original\/17\/171291\/2528172-horizon_new_full_logo.jpg",
+        "image_tags": "All Images"
+      },
+      "image_tags": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-43493\/?filter=image_tag:All%20Images",
+          "name": "All Images",
+          "total": 1
+        }
+      ],
+      "name": "Horizon",
+      "number_of_user_reviews": 0,
+      "original_game_rating": null,
+      "original_release_date": "2013-07-02",
+      "platforms": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/pc\/3045-94\/",
+          "abbreviation": "PC"
+        }
+      ],
+      "site_detail_url": "https:\/\/www.giantbomb.com\/horizon\/3030-43493\/",
+      "resource_type": "game"
+    },
+    {
+      "aliases": "0000",
+      "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-76989\/",
+      "date_added": "2020-02-04 14:31:28",
+      "date_last_updated": "2020-02-05 08:30:28",
+      "deck": "Zero Zero Zero Zero is a unique 1-bit low-fi platformer that sets to challenge players in a plethora of levels that will require skill and careful maneuvering. Dodge, shoot, and jump your way through randomly selected levels as you progress or die.",
+      "description": null,
+      "expected_release_day": null,
+      "expected_release_month": null,
+      "expected_release_quarter": null,
+      "expected_release_year": null,
+      "guid": "3030-76989",
+      "id": 76989,
+      "image": {
+        "icon_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_avatar\/8\/87790\/3164517-box_0000.png",
+        "medium_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_medium\/8\/87790\/3164517-box_0000.png",
+        "screen_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_medium\/8\/87790\/3164517-box_0000.png",
+        "screen_large_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_kubrick\/8\/87790\/3164517-box_0000.png",
+        "small_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/8\/87790\/3164517-box_0000.png",
+        "super_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_large\/8\/87790\/3164517-box_0000.png",
+        "thumb_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_avatar\/8\/87790\/3164517-box_0000.png",
+        "tiny_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_mini\/8\/87790\/3164517-box_0000.png",
+        "original_url": "https:\/\/www.giantbomb.com\/a\/uploads\/original\/8\/87790\/3164517-box_0000.png",
+        "image_tags": "All Images"
+      },
+      "image_tags": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-76989\/?filter=image_tag:All%20Images",
+          "name": "All Images",
+          "total": 10
+        }
+      ],
+      "name": "Zero Zero Zero Zero",
+      "number_of_user_reviews": 0,
+      "original_game_rating": null,
+      "original_release_date": "2020-02-04",
+      "platforms": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/pc\/3045-94\/",
+          "abbreviation": "PC"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-143\/",
+          "id": 143,
+          "name": "PlayStation Network (Vita)",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/playstation-network-vita\/3045-143\/",
+          "abbreviation": "PSNV"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+          "id": 145,
+          "name": "Xbox One",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/xbox-one\/3045-145\/",
+          "abbreviation": "XONE"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/playstation-4\/3045-146\/",
+          "abbreviation": "PS4"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-157\/",
+          "id": 157,
+          "name": "Nintendo Switch",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/nintendo-switch\/3045-157\/",
+          "abbreviation": "NSW"
+        }
+      ],
+      "site_detail_url": "https:\/\/www.giantbomb.com\/zero-zero-zero-zero\/3030-76989\/",
+      "resource_type": "game"
+    },
+    {
+      "aliases": "\u30a2\u30ac\u30ec\u30b9\u30c8\u6226\u8a18\uff3a\uff25\uff32\uff2f \u30c9\u30fc\u30f3 \u30aa\u30d6 \u30a6\u30a9\u30fc",
+      "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-32269\/",
+      "date_added": "2010-08-05 10:16:16",
+      "date_last_updated": "2011-06-16 00:33:02",
+      "deck": "This Xbox 360 update to the PS3 release of Agarest Senki Zero features additional content.",
+      "description": null,
+      "expected_release_day": null,
+      "expected_release_month": null,
+      "expected_release_quarter": null,
+      "expected_release_year": null,
+      "guid": "3030-32269",
+      "id": 32269,
+      "image": {
+        "icon_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_avatar\/3\/30196\/1815897-dawn.jpg",
+        "medium_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_medium\/3\/30196\/1815897-dawn.jpg",
+        "screen_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_medium\/3\/30196\/1815897-dawn.jpg",
+        "screen_large_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_kubrick\/3\/30196\/1815897-dawn.jpg",
+        "small_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/3\/30196\/1815897-dawn.jpg",
+        "super_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_large\/3\/30196\/1815897-dawn.jpg",
+        "thumb_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_avatar\/3\/30196\/1815897-dawn.jpg",
+        "tiny_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_mini\/3\/30196\/1815897-dawn.jpg",
+        "original_url": "https:\/\/www.giantbomb.com\/a\/uploads\/original\/3\/30196\/1815897-dawn.jpg",
+        "image_tags": "All Images,Box Art"
+      },
+      "image_tags": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-32269\/?filter=image_tag:All%20Images",
+          "name": "All Images",
+          "total": 1
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-32269\/?filter=image_tag:Box%20Art",
+          "name": "Box Art",
+          "total": 1
+        }
+      ],
+      "name": "Agarest Senki Zero: Dawn of War",
+      "number_of_user_reviews": 0,
+      "original_game_rating": null,
+      "original_release_date": "2011-06-14",
+      "platforms": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-20\/",
+          "id": 20,
+          "name": "Xbox 360",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/xbox-360\/3045-20\/",
+          "abbreviation": "X360"
+        }
+      ],
+      "site_detail_url": "https:\/\/www.giantbomb.com\/agarest-senki-zero-dawn-of-war\/3030-32269\/",
+      "resource_type": "game"
+    },
+    {
+      "aliases": null,
+      "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-68585\/",
+      "date_added": "2018-05-17 14:43:09",
+      "date_last_updated": "2020-11-07 10:48:24",
+      "deck": "Mars Horizon",
+      "description": null,
+      "expected_release_day": null,
+      "expected_release_month": null,
+      "expected_release_quarter": null,
+      "expected_release_year": null,
+      "guid": "3030-68585",
+      "id": 68585,
+      "image": {
+        "icon_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_avatar\/35\/357713\/3021619-game%20box%20cover%20art.png",
+        "medium_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_medium\/35\/357713\/3021619-game%20box%20cover%20art.png",
+        "screen_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_medium\/35\/357713\/3021619-game%20box%20cover%20art.png",
+        "screen_large_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_kubrick\/35\/357713\/3021619-game%20box%20cover%20art.png",
+        "small_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/35\/357713\/3021619-game%20box%20cover%20art.png",
+        "super_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_large\/35\/357713\/3021619-game%20box%20cover%20art.png",
+        "thumb_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_avatar\/35\/357713\/3021619-game%20box%20cover%20art.png",
+        "tiny_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_mini\/35\/357713\/3021619-game%20box%20cover%20art.png",
+        "original_url": "https:\/\/www.giantbomb.com\/a\/uploads\/original\/35\/357713\/3021619-game%20box%20cover%20art.png",
+        "image_tags": "All Images"
+      },
+      "image_tags": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-68585\/?filter=image_tag:All%20Images",
+          "name": "All Images",
+          "total": 2
+        }
+      ],
+      "name": "Mars Horizon",
+      "number_of_user_reviews": 0,
+      "original_game_rating": null,
+      "original_release_date": "2020-11-17",
+      "platforms": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/pc\/3045-94\/",
+          "abbreviation": "PC"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+          "id": 145,
+          "name": "Xbox One",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/xbox-one\/3045-145\/",
+          "abbreviation": "XONE"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/playstation-4\/3045-146\/",
+          "abbreviation": "PS4"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-157\/",
+          "id": 157,
+          "name": "Nintendo Switch",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/nintendo-switch\/3045-157\/",
+          "abbreviation": "NSW"
+        }
+      ],
+      "site_detail_url": "https:\/\/www.giantbomb.com\/mars-horizon\/3030-68585\/",
+      "resource_type": "game"
+    },
+    {
+      "aliases": null,
+      "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-78273\/",
+      "date_added": "2020-05-03 12:31:25",
+      "date_last_updated": "2022-03-14 15:33:21",
+      "deck": "Horizon Vanguard",
+      "description": null,
+      "expected_release_day": null,
+      "expected_release_month": null,
+      "expected_release_quarter": null,
+      "expected_release_year": null,
+      "guid": "3030-78273",
+      "id": 78273,
+      "image": {
+        "icon_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_avatar\/46\/466627\/3188934-library_capsule.png",
+        "medium_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_medium\/46\/466627\/3188934-library_capsule.png",
+        "screen_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_medium\/46\/466627\/3188934-library_capsule.png",
+        "screen_large_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_kubrick\/46\/466627\/3188934-library_capsule.png",
+        "small_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/46\/466627\/3188934-library_capsule.png",
+        "super_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_large\/46\/466627\/3188934-library_capsule.png",
+        "thumb_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_avatar\/46\/466627\/3188934-library_capsule.png",
+        "tiny_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_mini\/46\/466627\/3188934-library_capsule.png",
+        "original_url": "https:\/\/www.giantbomb.com\/a\/uploads\/original\/46\/466627\/3188934-library_capsule.png",
+        "image_tags": "All Images"
+      },
+      "image_tags": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-78273\/?filter=image_tag:All%20Images",
+          "name": "All Images",
+          "total": 1
+        }
+      ],
+      "name": "Horizon Vanguard",
+      "number_of_user_reviews": 0,
+      "original_game_rating": null,
+      "original_release_date": "2020-06-26",
+      "platforms": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/pc\/3045-94\/",
+          "abbreviation": "PC"
+        }
+      ],
+      "site_detail_url": "https:\/\/www.giantbomb.com\/horizon-vanguard\/3030-78273\/",
+      "resource_type": "game"
+    },
+    {
+      "aliases": null,
+      "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-66260\/",
+      "date_added": "2018-02-07 06:04:37",
+      "date_last_updated": "2019-12-15 20:12:25",
+      "deck": "Top down space fleet adventure.",
+      "description": null,
+      "expected_release_day": null,
+      "expected_release_month": null,
+      "expected_release_quarter": null,
+      "expected_release_year": null,
+      "guid": "3030-66260",
+      "id": 66260,
+      "image": {
+        "icon_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_avatar\/15\/154673\/3150678-0916842734-promo400286143",
+        "medium_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_medium\/15\/154673\/3150678-0916842734-promo400286143",
+        "screen_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_medium\/15\/154673\/3150678-0916842734-promo400286143",
+        "screen_large_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_kubrick\/15\/154673\/3150678-0916842734-promo400286143",
+        "small_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/15\/154673\/3150678-0916842734-promo400286143",
+        "super_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_large\/15\/154673\/3150678-0916842734-promo400286143",
+        "thumb_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_avatar\/15\/154673\/3150678-0916842734-promo400286143",
+        "tiny_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_mini\/15\/154673\/3150678-0916842734-promo400286143",
+        "original_url": "https:\/\/www.giantbomb.com\/a\/uploads\/original\/15\/154673\/3150678-0916842734-promo400286143",
+        "image_tags": "All Images"
+      },
+      "image_tags": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-66260\/?filter=image_tag:All%20Images",
+          "name": "All Images",
+          "total": 1
+        }
+      ],
+      "name": "Event Horizon",
+      "number_of_user_reviews": 0,
+      "original_game_rating": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game_rating\/3065-29\/",
+          "id": 29,
+          "name": "ESRB: E10+"
+        }
+      ],
+      "original_release_date": "2019-12-13",
+      "platforms": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-157\/",
+          "id": 157,
+          "name": "Nintendo Switch",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/nintendo-switch\/3045-157\/",
+          "abbreviation": "NSW"
+        }
+      ],
+      "site_detail_url": "https:\/\/www.giantbomb.com\/event-horizon\/3030-66260\/",
+      "resource_type": "game"
+    },
+    {
+      "aliases": null,
+      "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-75006\/",
+      "date_added": "2019-09-02 09:21:43",
+      "date_last_updated": "2019-09-03 22:40:48",
+      "deck": "In Horizon Beyond the player takes control of a flying ship and flies through a world above the clouds. On the journey the player can find new friends and explore an unfamiliar world in this VR experience.",
+      "description": null,
+      "expected_release_day": null,
+      "expected_release_month": null,
+      "expected_release_quarter": null,
+      "expected_release_year": null,
+      "guid": "3030-75006",
+      "id": 75006,
+      "image": {
+        "icon_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_avatar\/42\/429709\/3124444-horizon.jpg",
+        "medium_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_medium\/42\/429709\/3124444-horizon.jpg",
+        "screen_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_medium\/42\/429709\/3124444-horizon.jpg",
+        "screen_large_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_kubrick\/42\/429709\/3124444-horizon.jpg",
+        "small_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/42\/429709\/3124444-horizon.jpg",
+        "super_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_large\/42\/429709\/3124444-horizon.jpg",
+        "thumb_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_avatar\/42\/429709\/3124444-horizon.jpg",
+        "tiny_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_mini\/42\/429709\/3124444-horizon.jpg",
+        "original_url": "https:\/\/www.giantbomb.com\/a\/uploads\/original\/42\/429709\/3124444-horizon.jpg",
+        "image_tags": "All Images"
+      },
+      "image_tags": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-75006\/?filter=image_tag:All%20Images",
+          "name": "All Images",
+          "total": 2
+        }
+      ],
+      "name": "Horizon Beyond ",
+      "number_of_user_reviews": 0,
+      "original_game_rating": null,
+      "original_release_date": "2019-08-31",
+      "platforms": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/pc\/3045-94\/",
+          "abbreviation": "PC"
+        }
+      ],
+      "site_detail_url": "https:\/\/www.giantbomb.com\/horizon-beyond\/3030-75006\/",
+      "resource_type": "game"
+    },
+    {
+      "aliases": null,
+      "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-49659\/",
+      "date_added": "2015-05-14 15:14:53",
+      "date_last_updated": "2015-07-16 10:35:54",
+      "deck": "Horizon Shift is a single screen, waved-based shooter now available on PC",
+      "description": "<h2>Overview<\/h2><p>Horizon Shift is a shoot 'em up developed by Flump Studios and published by KISS Ltd. for PC.<\/p><h2>System Requirements<\/h2><h3>Windows<\/h3><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Minimum<\/th><\/tr><\/thead><tbody><tr><td><strong>OS: <\/strong>Windows 7 or higher<\/td><\/tr><tr><td><strong>Processor: 1.8 Ghz<\/strong><\/td><\/tr><tr><td><strong>Memory:<\/strong> 2 GB RAM<\/td><\/tr><tr><td><strong>GPU: <\/strong>1 GB Intel Graphic<\/td><\/tr><tr><td><strong>Hard Drive<\/strong>: 500 MB available space<\/td><\/tr><\/tbody><\/table><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Recommended<\/th><\/tr><\/thead><tbody><tr><td><strong>OS: <\/strong>Windows 7 or higher<\/td><\/tr><tr><td><strong>Processor: <\/strong>Dual Core processor of 2.4GHz<\/td><\/tr><tr><td><strong>Memory:<\/strong> 2 GB RAM<\/td><\/tr><tr><td><strong>GPU: <\/strong>Nvidia Geforce 200 series<\/td><\/tr><tr><td><strong>Hard Drive<\/strong>: 1 GB available space<\/td><\/tr><\/tbody><\/table>",
+      "expected_release_day": null,
+      "expected_release_month": null,
+      "expected_release_quarter": null,
+      "expected_release_year": null,
+      "guid": "3030-49659",
+      "id": 49659,
+      "image": {
+        "icon_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_avatar\/23\/234975\/2749945-header.jpg",
+        "medium_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_medium\/23\/234975\/2749945-header.jpg",
+        "screen_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_medium\/23\/234975\/2749945-header.jpg",
+        "screen_large_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_kubrick\/23\/234975\/2749945-header.jpg",
+        "small_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/23\/234975\/2749945-header.jpg",
+        "super_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_large\/23\/234975\/2749945-header.jpg",
+        "thumb_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_avatar\/23\/234975\/2749945-header.jpg",
+        "tiny_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_mini\/23\/234975\/2749945-header.jpg",
+        "original_url": "https:\/\/www.giantbomb.com\/a\/uploads\/original\/23\/234975\/2749945-header.jpg",
+        "image_tags": "All Images"
+      },
+      "image_tags": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-49659\/?filter=image_tag:All%20Images",
+          "name": "All Images",
+          "total": 11
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-49659\/?filter=image_tag:PC%20Screenshots",
+          "name": "PC Screenshots",
+          "total": 10
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-49659\/?filter=image_tag:Screenshots",
+          "name": "Screenshots",
+          "total": 10
+        }
+      ],
+      "name": "Horizon Shift",
+      "number_of_user_reviews": 0,
+      "original_game_rating": null,
+      "original_release_date": "2015-05-29",
+      "platforms": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/pc\/3045-94\/",
+          "abbreviation": "PC"
+        }
+      ],
+      "site_detail_url": "https:\/\/www.giantbomb.com\/horizon-shift\/3030-49659\/",
+      "resource_type": "game"
+    },
+    {
+      "aliases": "Horizon Chase Turbo",
+      "api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-51085\/",
+      "date_added": "2015-10-02 19:25:25",
+      "date_last_updated": "2018-11-09 07:29:59",
+      "deck": "A racing game for iOS and Android inspired by Outrun and Top Gear. The console and PC version is called Horizon Chase Turbo.",
+      "description": null,
+      "expected_release_day": null,
+      "expected_release_month": null,
+      "expected_release_quarter": null,
+      "expected_release_year": null,
+      "guid": "3030-51085",
+      "id": 51085,
+      "image": {
+        "icon_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_avatar\/19\/197638\/2787514-5016027420-tumbl.jpg",
+        "medium_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_medium\/19\/197638\/2787514-5016027420-tumbl.jpg",
+        "screen_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_medium\/19\/197638\/2787514-5016027420-tumbl.jpg",
+        "screen_large_url": "https:\/\/www.giantbomb.com\/a\/uploads\/screen_kubrick\/19\/197638\/2787514-5016027420-tumbl.jpg",
+        "small_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_small\/19\/197638\/2787514-5016027420-tumbl.jpg",
+        "super_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_large\/19\/197638\/2787514-5016027420-tumbl.jpg",
+        "thumb_url": "https:\/\/www.giantbomb.com\/a\/uploads\/scale_avatar\/19\/197638\/2787514-5016027420-tumbl.jpg",
+        "tiny_url": "https:\/\/www.giantbomb.com\/a\/uploads\/square_mini\/19\/197638\/2787514-5016027420-tumbl.jpg",
+        "original_url": "https:\/\/www.giantbomb.com\/a\/uploads\/original\/19\/197638\/2787514-5016027420-tumbl.jpg",
+        "image_tags": "All Images"
+      },
+      "image_tags": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-51085\/?filter=image_tag:All%20Images",
+          "name": "All Images",
+          "total": 11
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/images\/3030-51085\/?filter=image_tag:PAX%20East%202018",
+          "name": "PAX East 2018",
+          "total": 1
+        }
+      ],
+      "name": "Horizon Chase",
+      "number_of_user_reviews": 0,
+      "original_game_rating": null,
+      "original_release_date": "2018-05-15",
+      "platforms": [
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/pc\/3045-94\/",
+          "abbreviation": "PC"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-96\/",
+          "id": 96,
+          "name": "iPhone",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/iphone\/3045-96\/",
+          "abbreviation": "IPHN"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-121\/",
+          "id": 121,
+          "name": "iPad",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/ipad\/3045-121\/",
+          "abbreviation": "IPAD"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-123\/",
+          "id": 123,
+          "name": "Android",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/android\/3045-123\/",
+          "abbreviation": "ANDR"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+          "id": 145,
+          "name": "Xbox One",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/xbox-one\/3045-145\/",
+          "abbreviation": "XONE"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/playstation-4\/3045-146\/",
+          "abbreviation": "PS4"
+        },
+        {
+          "api_detail_url": "https:\/\/www.giantbomb.com\/api\/platform\/3045-157\/",
+          "id": 157,
+          "name": "Nintendo Switch",
+          "site_detail_url": "https:\/\/www.giantbomb.com\/nintendo-switch\/3045-157\/",
+          "abbreviation": "NSW"
+        }
+      ],
+      "site_detail_url": "https:\/\/www.giantbomb.com\/horizon-chase\/3030-51085\/",
+      "resource_type": "game"
+    }
+  ],
+  "version": "1.0"
+}
