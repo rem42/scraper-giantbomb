@@ -22,7 +22,7 @@ composer require rem42/scraper-giantbomb
 Requirement
 -----------
 
-- PHP >= 8.0
+- PHP >= 8.1
 
 Usage
 -----

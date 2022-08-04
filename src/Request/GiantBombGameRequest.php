@@ -2,11 +2,9 @@
 
 namespace Scraper\ScraperGiantBomb\Request;
 
-use Scraper\Scraper\Annotation\Scraper;
+use Scraper\Scraper\Attribute\Scraper;
 
-/**
- * @Scraper(path="game/{id}")
- */
+#[Scraper(path: 'game/{id}')]
 class GiantBombGameRequest extends GiantBombRequest
 {
     protected string $id;

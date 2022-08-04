@@ -2,11 +2,12 @@
 
 namespace Scraper\ScraperGiantBomb\Request;
 
-use Scraper\Scraper\Annotation\Scraper;
+use Scraper\Scraper\Attribute\Scraper;
 
 /**
  * @Scraper(path="search/")
  */
+#[Scraper(path: 'search/')]
 class GiantBombSearchGameRequest extends GiantBombRequest
 {
     /**
