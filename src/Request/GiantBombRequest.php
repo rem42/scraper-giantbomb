@@ -26,7 +26,7 @@ abstract class GiantBombRequest extends ScraperRequest implements RequestQuery
         return array_merge(
             [
                 'api_key' => $this->apiKey,
-                'format'  => 'json',
+                'format' => 'json',
             ],
             $this->parameters
         );
